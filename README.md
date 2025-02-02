@@ -1,6 +1,6 @@
-# theme.nvim
+# os-theme-detection.nvim
 
-`theme.nvim` is a simple way to set a different theme derived from macOS system appearance (Sorry! Only macOS as of right now). You can also manually change the theme.
+`os-theme-detection.nvim` is a simple way to set a different theme derived from macOS system appearance (Sorry! Only macOS as of right now). You can also manually change the theme.
 
 ## Installation
 
@@ -8,7 +8,7 @@
 
 ```lua
 {
-    'mattrussell36/theme.nvim',
+    'mattrussell36/os-theme-detection.nvim',
     opts = {
       themes = {
         dark = 'catppuccin-mocha',

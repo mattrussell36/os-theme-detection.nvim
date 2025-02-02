@@ -1,4 +1,0 @@
-================================================================================
-INTRODUCTION                                                    *theme.nvim*
-
-`theme.nvim` is a simple way to set a different theme derived from macOS system appearance (Sorry! Only macOS as of right now). You can also manually change the theme.
